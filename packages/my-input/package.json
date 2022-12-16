@@ -1,5 +1,5 @@
 {
-  "name": "my-input",
+  "name": "lik-input-test",
   "version": "0.0.1",
   "description": "",
   "type": "module",
@@ -12,5 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "4dddf508ed8cb866e38046a3d7d1ca0f4dd5cf44"
 }
